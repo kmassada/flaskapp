@@ -10,6 +10,6 @@ sudo python get-pip.py
 ```
 https://dev.mysql.com/downloads/mysql/ download community server
 sudo easy_install pip
-```
+``` 
 ## pip
 sudo pip install flask flask-mysqldb
